@@ -36,7 +36,7 @@
     "material-design-icons": "^3.0.1",
     "ng2-cookies": "1.0.12",
     "ng2-dnd": "^5.0.2",
-    "npm": "^6.4.1",
+    "npm": "^9.6.6",
     "reflect-metadata": "0.1.12",
     "rxjs": "^6.4.0",
     "semantic-ui": "^2.4.2",
@@ -48,7 +48,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^0.13.0",
-    "@angular/cli": "^7.3.0",
+    "@angular/cli": "^16.0.0",
     "@angular/compiler-cli": "^7.2.3",
     "@types/jasmine": "2.8.9",
     "@types/node": "~10.12.2",
